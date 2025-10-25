@@ -1,0 +1,60 @@
+
+
+       body{
+        background-image: url(bg.jfif);
+            text-align: center;
+       }
+        
+        .heading1{
+            color: blueviolet;
+            text-decoration: underline coral;
+
+
+        }
+        #logo{
+            width: 550px;
+            height: 770px;
+            border-radius: 10px;
+            border: 20px chocolate solid;
+                    }
+
+        
+        .main-div{
+            border: 10px green solid;
+            border-radius: 45px;
+            display: flex;
+            justify-content: space-between;
+        
+        }
+        .first-div{
+            border: 12px crimson solid;
+            border-radius: 35px;
+            flex-basis: 20%; 
+           
+        }
+        .second-div{
+            border: 10px chartreuse solid;
+            border-radius: 30px;
+            flex-basis: 80%;
+            text-align: center;
+        }
+        
+    
+        .links{
+            display: flex;
+            flex-direction:row;
+            justify-content: space-between;
+            background-color: blueviolet;
+            list-style-type: none;
+            color: antiquewhite;
+            font-size: 30px;
+        }
+        
+        .assess{
+            font-size: 20px;
+             text-decoration: none;
+
+
+        }
+        
+    
